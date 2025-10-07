@@ -18,3 +18,6 @@ Libraries Required:
 
 Output:
 Predicted reply text printed in console.
+
+model.joblib link
+https://drive.google.com/file/d/1dDao8Yiu3k52sAMn95G9d4aB7YulkcYt/view?usp=sharing
